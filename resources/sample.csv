@@ -1,0 +1,2 @@
+name,email,external_id,details,notes,phone,role,restriction,organization,tags
+George Washington,gwashington@email.org,,,,,end-user,,ACME Corporation,client
